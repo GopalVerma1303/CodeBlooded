@@ -1,4 +1,4 @@
-Team Name: YouWillInviteUs
-Member 1: Chatanya Kanhar
-Member 2: Gopal Verma
-Problem Statement: Document management system
+Team Name: YouWillInviteUs \n
+Member 1: Chatanya Kanhar \n
+Member 2: Gopal Verma \n
+Problem Statement: Document management system \n
